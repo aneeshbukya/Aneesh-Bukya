@@ -6,7 +6,7 @@
 <h2 align="center"> Hi, my name is Aneesh Bukya  </h2>
 
 <p align="center">
-  Currently a 3rd year standing student pursuing my Bachelor of Science in Computer Science at Rochester Institute of Technology. I'm into doing my own side projects that help me learn and understand new technologies. Highly interested in Fintech opportunities. 
+  Currently a 3rd year standing student pursuing my Bachelor of Science in Computer Science at Rochester Institute of Technology. I'm into doing my own side projects that help me learn and understand new technologies. Highly interested in Fintech and software development opportunities. 
   </p>
 
   <p align="center">
