@@ -34,10 +34,10 @@
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
 <p align="center">
   
-  <a href="mailto: cadeci@umich.edu">
+  <a href="mailto: aneeshbsri@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
   </a> 
-  <a href="https://www.linkedin.com/in/ciaracade/">
+  <a href="https://www.linkedin.com/in/aneeshbukya/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>  
   </a> 
 </p>
