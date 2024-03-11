@@ -3,14 +3,14 @@
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "500">
 </p>
 
-<h2 align="center">✨ Hi, my name is Aneesh Bukya ✨  </h2>
+<h2 align="center"> Hi, my name is Aneesh Bukya  </h2>
 
 <p align="center">
   Currently a 3rd year standing student pursuing my Bachelor of Science in Computer Science at Rochester Institute of Technology. I'm into doing my own side projects that help me learn and understand new technologies. Highly interested in Fintech opportunities. 
   </p>
 
   <p align="center">
-    As of now, I'm working on class projects, my Minecraft Mod, web apps for games, and any projects that come to mind.
+    As of now, I'm working on class projects, web apps and learning new technologies.
   </p>
 
 <h2 align="center">✨ Languages and Tools ✨  </h2>
