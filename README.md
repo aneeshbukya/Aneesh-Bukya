@@ -13,7 +13,7 @@
     As of now, I'm working on class projects, web apps and learning new technologies.
   </p>
 
-<h2 align="center">✨ Languages and Tools ✨  </h2>
+<h2 align="center"> 💻 Languages and Tools 🖥️  </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"   alt="Visual Studio Code">
 </p>
 
-<h2 align="center">✨ Contact ME ✨  </h2>
+<h2 align="center"> ✉️ Contact ME ☎️  </h2>
 <p align = "center">Are you a recruiter? Email me to access my private repositories! </p>
 <p align="center">
   
